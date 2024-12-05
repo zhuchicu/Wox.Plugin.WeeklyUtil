@@ -1,0 +1,12 @@
+{
+  "ID":"D3D2C23B084D411DB66FE0C79D6C111H",
+  "ActionKeyword":"wu",
+  "Name":"WeeklyUtil",
+  "Description":"Weekly Issue Util",
+  "Author":"zhuchicu",
+  "Version":"1.0.0",
+  "Language":"csharp",
+  "Website":"https://github.com/zhuchicu",
+  "IcoPath": "Images\\pic.png",
+  "ExecuteFileName":"Wox.Plugin.WeeklyUtil.dll"
+}

@@ -1,0 +1,10 @@
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.csproj.AssemblyReference.cache
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.GeneratedMSBuildEditorConfig.editorconfig
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.AssemblyInfoInputs.cache
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.AssemblyInfo.cs
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.csproj.CoreCompileInputs.cache
+D:\4-Projects\Wox.Plugin.WeeklyUtil\bin\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.deps.json
+D:\4-Projects\Wox.Plugin.WeeklyUtil\bin\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.dll
+D:\4-Projects\Wox.Plugin.WeeklyUtil\bin\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.pdb
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.dll
+D:\4-Projects\Wox.Plugin.WeeklyUtil\obj\Debug\netstandard2.0\Wox.Plugin.WeeklyUtil.pdb
